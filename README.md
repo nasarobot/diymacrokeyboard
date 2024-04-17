@@ -3,6 +3,8 @@ DIY Macro Keyboard project by me and my friends ( Abhinandh, Aasrith, and Gowtha
 
 ![Project image/demo-image](/Untitled%20design.png)
 
+![Circuit diagram](/Schematic_Macro_Keyboard.png)
+
 Inspiration/reference: https://youtu.be/acJ6gufBN_A
 
 Our project demonstration: https://youtu.be/pQqEs-3w1ME
